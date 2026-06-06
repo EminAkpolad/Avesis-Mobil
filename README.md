@@ -15,3 +15,18 @@ yeni bir expo uygulaması oluşturmak için: [Expo](https://expo.dev) [`create-e
    ```bash
    npx expo start
    ```
+
+
+# 🚀 AVESİS Mobil
+
+AVESİS ekosisteminin mobil ayağı! Yüksek performanslı ve ölçeklenebilir bir kullanıcı deneyimi için geliştirilmiştir.
+
+## 👥 Geliştirici Ekibi
+
+| İsim | Rol  |
+| **Emin** | Software Developer |
+| **Ozi** | Software Developer |
+| **Eren** | Software Developer |
+| **Eda** | Software Developer |
+
+---
